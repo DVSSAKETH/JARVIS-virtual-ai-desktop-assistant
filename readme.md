@@ -46,7 +46,7 @@
   - Fetches the latest news articles on specified topics using **NewsAPI**.  
 
 
-### 8. 🛠️ **Content Generation with Groq API**
+### 8. **Content Generation with Groq API**
 - **Library Used:** `Groq API`  
 - **Functionality:**  
   - Generates text content, including code snippets, based on user queries.  
